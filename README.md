@@ -36,6 +36,7 @@ My interests span full-stack development, computer vision, AI-powered applicatio
 
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-4285F4?style=flat-square&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
